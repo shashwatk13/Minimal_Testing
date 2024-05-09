@@ -1,0 +1,3 @@
+{
+  "url": "https://minimals.cc/auth/amplify/login?returnTo=%2Fdashboard"
+}

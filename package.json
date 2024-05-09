@@ -1,0 +1,19 @@
+{
+  "name": "Minimals_React_Selenium",
+  "type": "module",
+  "scripts": {
+    "test": "npx wdio run wdio.conf.js",
+    "generateReport":"allure generate allure-results --clean && allure open"
+  },
+  "devDependencies": {
+    "@wdio/allure-reporter": "^8.36.1",
+    "@wdio/cli": "^8.36.1",
+    "@wdio/local-runner": "^8.36.1",
+    "@wdio/mocha-framework": "^8.36.1",
+    "@wdio/spec-reporter": "^8.36.1",
+    "@wdio/visual-service": "^4.1.2"
+  },
+  "dependencies": {
+    "chai": "^5.1.0"
+  }
+}

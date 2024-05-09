@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='MuiAvatar-root MuiAvatar-circular css-185572p']"
+}
