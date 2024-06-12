@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[@class='MuiStack-root css-1jkfhk6']/button[4]"
-}

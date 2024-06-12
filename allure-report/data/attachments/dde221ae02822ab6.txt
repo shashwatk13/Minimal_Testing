@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"autocomplete-locations\"}\n  (Session info: chrome=124.0.6367.119)",
-  "stacktrace": "\tGetHandleVerifier [0x00007FF674F41552+60802]\n\t(No symbol) [0x00007FF674EBAC52]\n\t(No symbol) [0x00007FF674D77CE4]\n\t(No symbol) [0x00007FF674DC6D4D]\n\t(No symbol) [0x00007FF674DC6E1C]\n\t(No symbol) [0x00007FF674E0CE37]\n\t(No symbol) [0x00007FF674DEABBF]\n\t(No symbol) [0x00007FF674E0A224]\n\t(No symbol) [0x00007FF674DEA923]\n\t(No symbol) [0x00007FF674DB8FEC]\n\t(No symbol) [0x00007FF674DB9C21]\n\tGetHandleVerifier [0x00007FF6752441ED+3217949]\n\tGetHandleVerifier [0x00007FF675286187+3488183]\n\tGetHandleVerifier [0x00007FF67527F10F+3459391]\n\tGetHandleVerifier [0x00007FF674FFB916+823622]\n\t(No symbol) [0x00007FF674EC5FEF]\n\t(No symbol) [0x00007FF674EC0F14]\n\t(No symbol) [0x00007FF674EC10A2]\n\t(No symbol) [0x00007FF674EB18F4]\n\tBaseThreadInitThunk [0x00007FFAF03B7344+20]\n\tRtlUserThreadStart [0x00007FFAF23C26B1+33]\n"
-}

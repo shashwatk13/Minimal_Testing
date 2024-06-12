@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//button[@class='MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-7plbbd']"
-}

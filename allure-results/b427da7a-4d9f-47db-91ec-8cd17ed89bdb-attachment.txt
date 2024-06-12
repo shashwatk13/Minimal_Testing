@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//span[text()='> 3 year exp']/../span[1]"
-}

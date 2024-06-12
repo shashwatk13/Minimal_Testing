@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//button[contains(@aria-label,'Choose date')]"
-}

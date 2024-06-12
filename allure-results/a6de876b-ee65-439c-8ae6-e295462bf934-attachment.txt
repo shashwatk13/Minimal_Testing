@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//span[@class='MuiStack-root css-1d0id76']"
-}

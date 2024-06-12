@@ -1,3 +1,0 @@
-{
-  "text": "Software QA Engineer is awesome job"
-}

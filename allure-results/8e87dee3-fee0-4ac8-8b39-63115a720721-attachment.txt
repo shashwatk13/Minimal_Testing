@@ -1,3 +1,0 @@
-{
-  "url": "http://auth/amplify/login?returnTo=%2Fdashboard"
-}

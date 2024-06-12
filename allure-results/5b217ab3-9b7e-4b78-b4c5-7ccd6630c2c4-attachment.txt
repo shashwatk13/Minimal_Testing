@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[@data-placeholder='Write something awesome...']"
-}

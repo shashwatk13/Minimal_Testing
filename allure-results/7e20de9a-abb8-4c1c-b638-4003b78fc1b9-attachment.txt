@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='MuiAvatar-root MuiAvatar-circular css-185572p']\"}\n  (Session info: chrome=124.0.6367.119)",
-  "stacktrace": "\tGetHandleVerifier [0x00007FF71D261552+60802]\n\t(No symbol) [0x00007FF71D1DAC52]\n\t(No symbol) [0x00007FF71D097CE4]\n\t(No symbol) [0x00007FF71D0E6D4D]\n\t(No symbol) [0x00007FF71D0E6E1C]\n\t(No symbol) [0x00007FF71D12CE37]\n\t(No symbol) [0x00007FF71D10ABBF]\n\t(No symbol) [0x00007FF71D12A224]\n\t(No symbol) [0x00007FF71D10A923]\n\t(No symbol) [0x00007FF71D0D8FEC]\n\t(No symbol) [0x00007FF71D0D9C21]\n\tGetHandleVerifier [0x00007FF71D5641ED+3217949]\n\tGetHandleVerifier [0x00007FF71D5A6187+3488183]\n\tGetHandleVerifier [0x00007FF71D59F10F+3459391]\n\tGetHandleVerifier [0x00007FF71D31B916+823622]\n\t(No symbol) [0x00007FF71D1E5FEF]\n\t(No symbol) [0x00007FF71D1E0F14]\n\t(No symbol) [0x00007FF71D1E10A2]\n\t(No symbol) [0x00007FF71D1D18F4]\n\tBaseThreadInitThunk [0x00007FFAF03B7344+20]\n\tRtlUserThreadStart [0x00007FFAF23C26B1+33]\n"
-}
