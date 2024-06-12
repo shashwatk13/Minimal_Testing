@@ -1,15 +1,6 @@
 
 export class base{
 
-    async inputValueInTextBox(element,value){
-        
-    }
-
-    async clickOnElement(element){
-
-        await
-    }
-
     async waitForElementDisplayed(element,timeToWait){
         browser.waitUntil(() => {
             return element;

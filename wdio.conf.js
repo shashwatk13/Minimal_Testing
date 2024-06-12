@@ -137,11 +137,21 @@ export const config = {
         timeout: 60000
     },
 
-    reporters: [['allure',
-    {
-        outputDir: 'allure-results',
-        disableWebdriverScreenshotsReporting: false,
-    }]],
+    reporters: [
+        'spec',
+        ['junit', {
+            outputDir: './test-results',
+            outputFileFormat: function (options) {
+                return `results-${options.cid}.xml`;
+            }
+        }]
+    ],
+
+    // reporters: [['allure',
+    // {
+    //     outputDir: 'allure-results',
+    //     disableWebdriverScreenshotsReporting: false,
+    // }]],
     //
     // =====
     // Hooks
